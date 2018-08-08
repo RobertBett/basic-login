@@ -1,0 +1,21 @@
+.input{
+  display: block;
+  width: 250px;
+  height: 50px;
+  font-size:15px;
+  margin: 10px;
+
+}
+.label{
+  margin: 10px
+}
+.login{
+    display: inline-block;
+    position: relative;
+    left: 37%;
+    top: 100px;
+}
+
+.error{
+  color:red;
+}
